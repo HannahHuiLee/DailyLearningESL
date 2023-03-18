@@ -4,7 +4,7 @@
 
 #### 英语中常见的时态有12种，它们分别是：
 
- ![tense](/Users/huilee/Desktop/tense.png)
+ ![tense](../assets/tense.png)
 
 ### 1. 简单现在时 (Simple Present Tense)
 > 用于描述客观事实、习惯、常规或状态等。通常与表示频率的副词一起使用，例如always、often、usually等。
