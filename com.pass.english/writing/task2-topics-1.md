@@ -31,6 +31,7 @@
 - 3：在发展中国家，对教育的投资可以带来显著的经济增长和发展，这一点在韩国和新加坡等国家可以看到。
 
 ##### 论据1.2：Government should prioritize the needs of disadvantaged communities.
+政府应优先考虑处境不利社区的需求。
 
 - 详细解释
 - 举例子
@@ -43,6 +44,7 @@
 - 3：在美国，"黑人生活重要 "运动呼吁人们关注政府采取行动解决黑人社区所面临的系统性种族主义和歧视的必要性。
 
 ##### 论据1.3：3: The balance between individual rights and government authority is an ongoing debate.
+个人权利和政府权力之间的平衡是一场持续的辩论
 
 - 详细解释
 - 举例子
@@ -57,6 +59,7 @@
 #### 主要论点2：Environment
 
 ##### 论据2.1：The degradation of the environment is a global problem that requires coordinated action from individuals, governments, and organizations.
+环境退化是一个全球性问题，需要个人、政府和组织的协调行动。
 
 - 详细解释
 - 举例子
@@ -69,6 +72,7 @@
 - 3：森林砍伐--森林砍伐是一个全球性的问题，需要个人、政府和组织的协调行动，以保护森林和促进可持续的土地使用方式。例如，REDD+（减少森林砍伐和森林退化造成的排放）计划是一项全球倡议，旨在激励发展中国家减少森林砍伐并投资于可持续森林管理。
 
 ##### 论据2.2：The impact of human activity on the environment has accelerated in recent decades, with devastating consequences for ecosystems and wildlife.
+近几十年来，人类活动对环境的影响加快了，对生态系统和野生动物造成了破坏性的后果。
 
 - 详细解释
 - 举例子
@@ -81,6 +85,7 @@
 - 3：污染--工业生产、运输和农业等人类活动已经导致了空气、水和土壤的广泛污染。这导致了对人类和野生动物的有害健康影响，以及对生态系统和生物多样性的消极影响。例如，太平洋大垃圾场是太平洋中大量塑料碎片的集合，对海洋生物和生态系统有害。
 
 ##### 论据2.3：The transition to sustainable practices is essential for protecting the environment and ensuring a livable future for future generations.
+过渡到可持续的做法对于保护环境和确保后代的宜居未来至关重要。
 
 - 详细解释
 - 举例子
@@ -92,11 +97,71 @@
 - 2：采用循环经济原则，旨在减少废物和促进材料的再利用，可以帮助减少工业流程对环境的影响。
 - 3：推广可持续的农业实践有助于减少有害的杀虫剂和化肥的使用，保护土壤健康，促进生物多样性。
 
+
+#### 分析
+1. "has consistently been ranked" 
+> 是现在完成时的被动语态，用来描述一个状态或行为从过去一直持续到现在，并且可能会继续下去。
+> 在这句话中，它描述了芬兰的教育系统一直以来都被评为世界上最好之一，这个评价可能是长期的。
+
+##### 常用词组：
+1. consistently been ranked（一直被评为, due to（由于）, in large part（在很大程度上）, government's significant investment in education（政府在教育方面的重要投资）
+
+2. "tend to"（倾向于，常常, "higher levels of education funding"（更高水平的教育资金）, "graduation rates"（毕业率）, "better outcomes"（更好的结果）
+
+3. "can lead to"（可以导致）、"investment in education"（在教育方面的投资）、"significant economic growth and development"（显著的经济增长和发展）、"as seen in"（如同在……看到的那样）、"countries like South Korea and Singapore"
+
+4. "Bolsa Familia program"（家庭福利计划）、"cash transfers"（现金转移）、"reduce poverty and inequality"（减少贫困和不平等）
+
+5. "marginalized communities"（边缘化的社区）、"affirmative action policies"（平权政策）、"access to healthcare and education"（获得医疗和教育的机会）
+
+6. "the Black Lives Matter movement"（黑人的命也是命运动）、"systemic racism and discrimination"（系统性的种族主义和歧视）。
+
+7. vaccine mandates（疫苗强制接种政策）、individual rights（个人权利）、autonomy（自主权）、infringe upon（侵犯）。
+
+8. gun control laws（枪支管制法律）、individual rights（个人权利）、government authority（政府权威）、regulate firearms（监管枪支）、public safety（公共安全）。
+
+9. surveillance technologies（监视技术）、government authority（政府权威）、individual privacy rights（个人隐私权利）、gather information（收集信息）、national security（国家安全）、public safety（公共安全）。
+
+10. coordinated action, greenhouse gas emissions, the Paris Agreement
+
+11. coordinated action, plastic pollution, sustainable practices, single-use plastics
+
+12. coordinated action, deforestation, sustainable land use practices, REDD+ program
+
+13. fossil fuels、greenhouse gases、global warming、climate change、natural disasters、plant and animal species。for energy and transportation、rising sea levels、severe natural disasters、ecosystems and wildlife。
+
+14. logging、land conversion、deforestation、tropical regions、habitat loss、greenhouse gas emissions、local ecosystems。agriculture、Amazon rainforest、species、disrupted local ecosystems、their functions。
+
+15. industrial production、transportation、agriculture、pollution、air、water、soil、harmful health impacts、wildlife、ecosystems、biodiversity、Great Pacific Garbage Patch。harmful health impacts、marine life。
+
+16. transition to  + 名词、renewable energy sources(可再生能源)、reduce greenhouse gas emissions(温室气体排放)、mitigate the effects of climate change(缓解气候变化的影响)。
+
+17. adoption of + 名词、circular economy principles(采用循环经济原则)、reduce waste(减少浪费)、promote the reuse of materials(促进材料再利用)、reduce the environmental impact。
+
+18. promotion of + 名词、 sustainable agriculture practices(促进可持续农业实践)、reduce the use of、harmful pesticides(有害农药)、fertilizers(肥料)、protect soil health、promote biodiversity(生物多样性)。
+
+##### 生词：
+1. marginalize /'mɑrdʒɪnəlaɪz/   vt. 使边缘化; 排挤  We must not marginalize the poor in our society.
+
+2. affirmative  /ə'fɝmətɪv/ 肯定的 (言辞、手势)[正式]  Haig was desperately eager for an affirmative answer.
+
+3. schemes n. 计划  They would first have to work out some scheme for getting the treasure out.
+
+4. racism  /'resɪzəm/  n. 种族主义; 种族歧视  There is a feeling among some black people that the level of racism is declining.
+   racist  /'resɪst/  n. 种族主义者  You have to acknowledge that we live in a racist society.
+
+5. autonomy /ɔːˈtɑːnəmi/  n. 自治权  Activists stepped up their demands for local autonomy last month.活动的积极分子上个月提高了其对地方自治的要求。
+
+6. infringe /ɪnˈfrɪndʒ/   v. 侵犯  They rob us, they infringe our rights, they kill us.
+
+7. firearms  枪; 炮
+
+8. surveillance  /sɜːrˈveɪləns/  n.监视  He was arrested after being kept under constant surveillance.
+
+9. deforestation /ˌdiːˌfɔːrɪˈsteɪʃn/  n. 毁林，滥伐森林  It is widely acknowledged that extensive deforestation would lead to flooding
+
+
 ### 写作成果
 
 - 完整的论点分论点结构
 - 每个主要论点包括2-3个有力的论据，每个论据包括详细解释和举例子
-
-## 日期
-
-...
