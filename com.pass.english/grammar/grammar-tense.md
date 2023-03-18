@@ -4,18 +4,7 @@
 
 #### 英语中常见的时态有12种，它们分别是：
 
-1. 简单现在时 (Simple Present Tense)
-2. 进行时 (Present Continuous Tense)
-3. 简单过去时 (Simple Past Tense)
-4. 过去进行时 (Past Continuous Tense)
-5. 现在完成时 (Present Perfect Tense)
-6. 过去完成时 (Past Perfect Tense)
-7. 将来时 (Future Tense)
-8. 将来进行时 (Future Continuous Tense)
-9. 将来完成时 (Future Perfect Tense)
-10. 现在完成进行时 (Present Perfect Continuous Tense)
-11. 过去完成进行时 (Past Perfect Continuous Tense)
-12. 将来完成进行时 (Future Perfect Continuous Tense)
+ ![tense](/Users/huilee/Desktop/tense.png)
 
 ### 1. 简单现在时 (Simple Present Tense)
 > 用于描述客观事实、习惯、常规或状态等。通常与表示频率的副词一起使用，例如always、often、usually等。
