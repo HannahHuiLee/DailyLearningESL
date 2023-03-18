@@ -102,6 +102,9 @@
 1. "has consistently been ranked" 
 > 是现在完成时的被动语态，用来描述一个状态或行为从过去一直持续到现在，并且可能会继续下去。
 > 在这句话中，它描述了芬兰的教育系统一直以来都被评为世界上最好之一，这个评价可能是长期的。
+- "The movie has been watched by millions of people around the world."（这部电影被全球数百万人观看过。）
+- "The report has been finished by the research team."（这份报告已经被研究团队完成了。）
+- "The product has been highly praised by industry experts."（这个产品已经被行业专家高度赞扬了。）
 
 ##### 常用词组：
 1. consistently been ranked（一直被评为, due to（由于）, in large part（在很大程度上）, government's significant investment in education（政府在教育方面的重要投资）
