@@ -28,10 +28,10 @@
 ## Topic 1 分歧/争论
 
 ####  What would you do if you disagree with someone?
->     - Answer: If I disagree with someone, I would try to express my opinion in a calm and respectful manner.
->     - Detail: I believe that communication is key when it comes to handling disagreements.     
->     - Develop: For example, if I disagreed with a coworker on a project, I would first ask them to explain their approach and reasoning. Then I'd share my own thoughts and offer alternative solutions.  In this way, we could find a solution that satisfied both of us if we remained open-minded and respectful.
->     - Conclusion: In conclusion, when faced with a disagreement, I believe it's important to communicate clearly in order to reach a constructive resolution.
+* Answer: If I disagree with someone, I would try to express my opinion in a calm and respectful manner.
+* Detail: I believe that communication is key when it comes to handling disagreements.     
+* Develop: For example, if I disagreed with a coworker on a project, I would first ask them to explain their approach and reasoning. Then I'd share my own thoughts and offer alternative solutions.  In this way, we could find a solution that satisfied both of us if we remained open-minded and respectful.
+* Conclusion: In conclusion, when faced with a disagreement, I believe it's important to communicate clearly in order to reach a constructive resolution.
 
 ####  How can we stop an argument from escalating into a fight?
 >     - Answer: To prevent an argument from turning into a fight, it's important to stay calm, acknowledge the other person's feelings, and try to find common ground.
