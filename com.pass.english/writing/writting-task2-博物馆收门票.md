@@ -6,6 +6,9 @@
 
 - Many museums charge for admission while others are free. Do you think the advantages of charging people for admission to museums outweigh the disadvantages?
 
+#### 答题思路
+
+- 这是一道优缺点类型的题，探讨的是优缺点哪个多，因此在文章中要表达出明确的态度，不能中立，也不能只谈优点或只谈缺点。
 
 #### 注意的问题
 - Structure: Ensure your essay has a clear introduction, body paragraphs, and conclusion. Each paragraph should focus on a specific point and support it with relevant examples or explanations.
